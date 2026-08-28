@@ -1,1 +1,1 @@
-print("am......gital")
+print("am......githial")
